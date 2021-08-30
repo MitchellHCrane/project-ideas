@@ -1,10 +1,48 @@
-Hobbies:
+5 Ideas
+-----------------------------------------------------
+1: Cars/vehicles
+    Personal Car Service History app that you can use to track maintenance on your vehicle. Solves the problem of sifting through papers to see the history of the vehicle. 
+        -User login
+        -Inputs of Date, Mileage, pictures and Service performed.
+        -Keep data tracked to a vehicle.
+        -Can have many vehicles added to your garage
 
+2: Dirt Biking
+    App that keeps track of trails that you have ridden, their difficulty, and time taken to complete.
+        -User login
+        -Inputs of trail, date, time to complete, difficulty range
+        -Upload pictures
+
+3: Mountain Biking
+    App that reminds/ has a checklist of items you need to bring on biking trips so you don't forget any gear.
+        -User login
+        -Have the ability to create multiple named lists each with their own items
+        -Delete/Edit/Add list items
+
+4: Traveling
+    Social media type app that allows users to post their trips. It will list deals they found and give an estimate of how much it cost to travel to certain places
+        -Posts with pictures, pricing, deals found, total cost from A to B etc...
+        -User login
+        -Feed
+        -Personal profile
+    
+5: Car buying
+    Replicate an app that allows users to post their vehicle for sale.
+        -User login
+        -Ability to list vehicle with Picture and vehicle details
+        -Ability to browse listings
+
+
+Hobbies
 -Dirt Biking
 -Mountain Biking
 -Traveling
 -Guitar
 
 Daily Activities:
-
-Problems:
+-Make breakfast/lunch/dinner
+-Water plants
+-Go mountain biking/train for race
+-Browse listings on ksl
+-Watch a show
+-Exercise 
